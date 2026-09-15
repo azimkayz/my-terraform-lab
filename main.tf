@@ -11,3 +11,5 @@ resource "azurerm_storage_account" "this" {
  account_replication_type = "LRS"
 
 }
+
+# test protection rule
